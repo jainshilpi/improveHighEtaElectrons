@@ -1,0 +1,3 @@
+### fname                               outputname             isbkg   xsec            itype
+/eos/cms/store/group/phys_egamma/shilpi/improveTrackingHighEleEta/ntuples/SingleEle_V0_GENSIMRAW/crab_nominal/210317_004029/0000/ /eos/cms/store/group/phys_egamma/shilpi/improveTrackingHighEleEta/histnominal.root 0 1 1
+/eos/cms/store/group/phys_egamma/shilpi/improveTrackingHighEleEta/ntuples/SingleEle_V0_GENSIMRAW/crab_modified/210317_214113/0000/ /eos/cms/store/group/phys_egamma/shilpi/improveTrackingHighEleEta/histmodified.root 0 1 2
