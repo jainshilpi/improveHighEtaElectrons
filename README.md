@@ -1,8 +1,10 @@
 # improveHighEtaElectrons
+
 ###Samples used: DoubleElectron gun from 1.7 GeV to 300 GeV in pT
+
 ######CMSSW version: CMSSW_11_0_1
 
-1. The samples with nominal configuration (please use config.Data.inputDBS        = 'phys03'):
+1. The gen-sim-raw samples with nominal configuration (please use config.Data.inputDBS        = 'phys03'):
    *  /SingleEle_V0_GENSIMRAW/shilpi-SingleEle_V0_miniAOD_nominal-28ea11753f803e89e7fd3e375196acc9/USER
    * Ntuples are already made. Can be found here: /eos/cms/store/group/phys_egamma/shilpi/improveTrackingHighEleEta/ntuples/SingleEle_V0_GENSIMRAW/crab_nominal/210317_004029/0000/
 
